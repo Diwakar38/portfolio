@@ -1,5 +1,5 @@
-import React from 'react';
 import "./index.css";
+import React from 'react';
 import Home from "./routes/home"
 import Project from "./routes/project"
 import Contact from "./routes/contact"
